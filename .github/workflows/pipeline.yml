@@ -23,7 +23,7 @@ jobs:
       with:
         depth: 1
         branch: 'main'
-        owner: 'techtorialdevops'
+        owner: 'zhannakarayeva'
         repository: 'roles'
 
     - name: Access cloned repo
