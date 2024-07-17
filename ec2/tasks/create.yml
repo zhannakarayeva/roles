@@ -3,8 +3,8 @@
   amazon.aws.ec2_spot_instance:
       launch_specification:
         image_id: ami-0900fe555666598a2
-        key_name: tuncay
-        security_group_ids: sg-0c51ed3484432fe7f
+        key_name: Zhanna
+        security_group_ids: sg-07ebe541beda0497f
         instance_type: t2.micro
         block_device_mappings:
           - device_name: /dev/sdb
